@@ -1,4 +1,4 @@
-
+# agent
 # agent extract the in formation ater transform in ontologie ,call llm to modify by nlp, help trip extract by video of tiktot
 class extraction :
     def __init__(self,obj,state,action):
